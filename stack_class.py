@@ -2,11 +2,11 @@
 Custom Stack implementation (LIFO).
 
 Supports:
-- push
-- pop
-- peek
-- is_empty
-- size
+ push
+ pop
+ peek
+ is_empty
+ size
 """
 
 
