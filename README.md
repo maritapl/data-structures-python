@@ -1,6 +1,6 @@
 # Data Structures in Python
 
-This repository contains implementations of fundamental data structures written in Python, along with small practical applications built on top of them.
+This project contains implementations of fundamental data structures written in Python, along with small practical applications built on top of them.
 
 The goal of this repository is to strengthen understanding of:
 
